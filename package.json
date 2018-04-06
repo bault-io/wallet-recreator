@@ -1,0 +1,18 @@
+{
+  "name": "recreator",
+  "version": "1.0.0",
+  "description": "Bitcore Wallet reCreator",
+  "main": "recreate_wallet_in_bws.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bitcore"
+  ],
+  "author": "Oscar E. Bernal",
+  "license": "ISC",
+  "dependencies": {
+    "bitcore-wallet-client": "^6.7.2",
+    "fs": "0.0.1-security"
+  }
+}
